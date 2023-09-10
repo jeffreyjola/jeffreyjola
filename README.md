@@ -1,5 +1,5 @@
 ### Hi 👋 My name is JEffrey Jola
-===================================================================
+-------------------------------
 
 Software engineer 
 -------------------------------
@@ -7,12 +7,13 @@ Software engineer
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [jeffjola.com](http://jeffjola.com/)
 *   ✉️  You can contact me at [jeffjola@gmail.com](mailto:jeffjola@gmail.com)
-*   🚀  I'm currently working on [WappKit](http://wappkit.com)
-*   🧠  I'm learning MERN
-*   🤝  I'm open to collaborating on PHP, CSS, HTML, Web Optimization
+*   🚀  I'm currently working on [Yetti Pages](http://pages.jeffjola.com)
+*   🧠  I love problem solving & I'm also a tech enthusiast 
+*   🤝  I'm open to collaborating on LARAVEL, VUE, LIVEWIRE projects.
 *   ⚡  Passionate About Bringing Crazy Ideas To Life
 
-### Skills & Expertise:
+Skills & Expertise:
+-------------------------------
 
 - **Laravel**: Mastering the art of elegant PHP web applications.
 - **Livewire & Livewire Volt**: Building dynamic interfaces seamlessly.
@@ -22,24 +23,44 @@ Software engineer
 - **CSS & SCSS**: Styling with precision and maintaining clean code.
 - **SEO & Optimization**: Enhancing website performance and visibility.
 
-[![aadrshkashyp](https://camo.githubusercontent.com/af5b105857feeb7d10eb4e05770d3889e078a0a7dae3a47b594e96937d9e4691/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6161647273686b6173687970266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)](https://camo.githubusercontent.com/af5b105857feeb7d10eb4e05770d3889e078a0a7dae3a47b594e96937d9e4691/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6161647273686b6173687970266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffreyjola&label=Profile%20views&color=0e75b6&style=flat" alt="jeffjola" /> </p>
 
-[![Website](https://camo.githubusercontent.com/b2e16bea2b798783b6dfc04a5799399fc58bc5f9b2dade452c9508ef68790916/68747470733a2f2f696d672e736869656c64732e696f2f776562736974653f6c6162656c3d616164617273686b6173687961702e636f6d267374796c653d666f722d7468652d62616467652675726c3d6874747073253341253246253246616164617273686b6173687961702e636f6d)](https://aadarshkashyap.com)
+[![Website](https://img.shields.io/website?label=jeffjola.com&style=for-the-badge&url=https%3A%2F%2Fjeffjola.com)](https://jeffjola.com)
 
-[![aadarshkashyp](https://camo.githubusercontent.com/aee3cc661e54ef84059a61370efcda9f668a38cd52d33911b88b7669f6f4f951/68747470733a2f2f696d672e736869656c64732e696f2f747769747465722f666f6c6c6f772f616164617273686b61736879703f6c6f676f3d74776974746572267374796c653d666f722d7468652d6261646765)](https://twitter.com/aadarshkashyp)
+<p align="left"> <a href="https://twitter.com/jeffreyjola" target="blank"><img src="https://img.shields.io/twitter/follow/jeffreyjola?logo=twitter&style=for-the-badge" alt="jeffjola" /></a> </p>
 
-### [](#skills)Skills
+### Skills
 
-[![Javascript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![PHP](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg)](https://www.php.net/) [![HTML5](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5) [![React](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg)](https://reactjs.org/) [![CSS3](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)](https://www.w3.org/TR/CSS/#css) [![TailwindCSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg)](https://tailwindcss.com/) [![Bootstrap](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg)](https://getbootstrap.com/) [![JQuery](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg)](https://jquery.com/) [![NodeJS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg)](https://nodejs.org/en/) [![MongoDB](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg)](https://www.mongodb.com/) [![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)](https://www.mysql.com/) [![Firebase](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg)](https://firebase.google.com/) [![Lavarel](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg)](https://laravel.com/) [![Photoshop](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg)](https://www.adobe.com/uk/products/photoshop.html) [![Figma](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg)](https://www.figma.com/)
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
-### [](#socials)Socials
 
-[![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://www.github.com/aadrshkashyp) [![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg)](https://aadarshkashyap.hashnode.dev) [![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/aadrshkashyp/) [![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://www.linkedin.com/in/aadarsh--kashyap/) [![](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg)](https://www.twitter.com/AadarshKashyp)
+### Socials
 
-**My GitHub Stats**
+<p align="left"> <a href="https://www.github.com/aadrshkashyp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://aadarshkashyap.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/aadrshkashyp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aadarsh--kashyap/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/AadarshKashyp" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-[![](https://camo.githubusercontent.com/e847b94108833132292611f3ef0a6e245857d4bebc4efde0fd6f73df56573c83/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6161647273686b6173687970267374726f6b653d666666666666266261636b67726f756e643d3163313931372672696e673d30383931623226666972653d303839316232266375727253747265616b4e756d3d666666666666266375727253747265616b4c6162656c3d30383931623226736964654e756d733d66666666666626736964654c6162656c733d6666666666662664617465733d66666666666626686964655f626f726465723d74727565)](http://www.github.com/aadrshkashyp)
 
-### [](#support-me)Support Me
+<b>My GitHub Stats</b>
 
-[![](https://camo.githubusercontent.com/28aae05a0fba45679e8e27d90609601e249b64a5fe30dfef05495de4f4e318d4/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67)](https://www.buymeacoffee.com/aadarshkashyap)
+
+<a href="http://www.github.com/aadrshkashyp"><img src="https://github-readme-streak-stats.herokuapp.com/?user=aadrshkashyp&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/aadarshkashyap"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
