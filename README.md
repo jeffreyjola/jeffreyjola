@@ -5,7 +5,7 @@ Software engineer
 -------------------------------
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [jeffjola.com](http://jeffjola.com/)
+*   🖥️  See my portfolio at [jeffjola.com](https://bento.me/jeffreyjola)
 *   ✉️  You can contact me at [jeffjola@gmail.com](mailto:jeffjola@gmail.com)
 *   🚀  I'm currently working on [Yetti Pages](http://pages.jeffjola.com)
 *   🧠  I love problem solving & I'm also a tech enthusiast 
