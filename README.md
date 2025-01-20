@@ -5,9 +5,9 @@ Software engineer
 -------------------------------
 
 *   🌍  I'm based in Nigeria
-*   🖥️  See my portfolio at [jeffjola.com](https://bento.me/jeffreyjola)
+*   🖥️  See my portfolio at [jeffjola.com](https://zeph.to/@jeff)
 *   ✉️  You can contact me at [jeffjola@gmail.com](mailto:jeffjola@gmail.com)
-*   🚀  I'm currently working on [Yetti Pages](http://pages.jeffjola.com)
+*   🚀  I'm currently working on [Zeph](https://zeph.to)
 *   🧠  I love problem solving & I'm also a tech enthusiast 
 *   🤝  I'm open to collaborating on LARAVEL, VUE, LIVEWIRE projects.
 *   ⚡  Passionate About Bringing Crazy Ideas To Life
@@ -52,7 +52,7 @@ Skills & Expertise:
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/jeffreyjola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jeffreyjola/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeffrey-jola/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jeffreyjola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/jeffreyjola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jeffrey-jola/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jeffreyjola" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
